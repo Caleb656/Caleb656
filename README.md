@@ -1,5 +1,6 @@
 # Caleb Steinman
 
+
 ## Major
 Computer Science at Eastern Washington University
 
@@ -16,6 +17,10 @@ Software Engineering Intern at Schweitzer Engineering Laboratories
 - Python
 - C
 - C++
+
+## Project Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caleb656)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Caleb656/Caleb656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
