@@ -11,6 +11,7 @@ Software Engineering Intern at Schweitzer Engineering Laboratories
 - CSCD 378 Web Application Development
 - CSCD 330 Computer Networks
 - CSCD 439 Gamification for Learning
+- SwiftUI and iOS Development
 
 ### Languages
 - Java
