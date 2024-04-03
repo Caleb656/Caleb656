@@ -7,11 +7,8 @@ Computer Science at Eastern Washington University
 ## Job
 Software Engineering Intern at Schweitzer Engineering Laboratories
 
-## I am currently learning
-- CSCD 378 Web Application Development
-- CSCD 330 Computer Networks
-- CSCD 439 Gamification for Learning
-- SwiftUI and iOS Development
+## Courses
+- Senior Project (SecurIOT)
 
 ### Languages
 - Java
