@@ -1,14 +1,12 @@
 # Caleb Steinman
 
 
-## Major
-Computer Science at Eastern Washington University
+## Education
+Computer Science Graduate (BS) Eastern Washington University
+
 
 ## Job
-Software Engineering Intern at Schweitzer Engineering Laboratories
-
-## Courses
-- Senior Project (SecurIOT)
+Software Engineer at Schweitzer Engineering Laboratories
 
 ### Languages
 - Java
